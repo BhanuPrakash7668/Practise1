@@ -1,6 +1,6 @@
 print("some things")
 print("soda")
-print("new soda from gitsite")
+print("new soda from local computer")
 print("Drinks")
 print("Also some things")
 print("ABC")
